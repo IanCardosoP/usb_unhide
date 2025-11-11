@@ -146,6 +146,9 @@ Después de la simulación:
 
 ## Cómo verificar atributos y listar con atributos
 
+<img width="1201" height="1219" alt="image" src="https://github.com/user-attachments/assets/b0851443-34b7-48ce-b7ae-bc5747086725" />
+
+
 Para listar atributos FAT junto con permisos y ruta, puedes usar este comando:
 
 ```bash
