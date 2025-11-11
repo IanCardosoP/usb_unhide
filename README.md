@@ -105,6 +105,9 @@ Archivos/directorios restaurados: 12
 
 ## Uso: `simulate_infection.sh` (para pruebas)
 
+<img width="1180" height="937" alt="image" src="https://github.com/user-attachments/assets/165f243a-50d1-44f5-99eb-7179baaaddd7" />
+
+
 > Úsalo solo en una copia/USB de prueba. Este script **modifica** nombres y atributos.
 
 ### Ejecución
